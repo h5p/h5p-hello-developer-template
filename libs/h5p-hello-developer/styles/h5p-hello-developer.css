@@ -1,0 +1,11 @@
+.h5p-hello-developer {
+  min-height: 300px;
+  background: red;
+}
+
+/*.kontext .layer:first-child {
+  background-color: green;
+}*/
+.h5p-hello-developer .layer {
+  background-color: pink;
+}

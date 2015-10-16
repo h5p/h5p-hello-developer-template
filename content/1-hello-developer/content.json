@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {
+      "title": "Hi @author!",
+      "content": "You are now looking at an H5P. You should open @developer-directory in your favorite editor. The following files are important: blablabla"
+    },
+    {
+      "title": "Semantics",
+      "content": "Your semantics file is found here: @semantics-file"
+    },
+    {
+      "title": "Scripts",
+      "content": "The logic for this H5P is found here: @js-file"
+    },
+    {
+      "title": "Styles",
+      "content": "The styling for this H5P is found here: @css-file"
+    },
+    {
+      "title": "Content",
+      "content": "The content is found here: @content-file"
+    }
+  ]
+}

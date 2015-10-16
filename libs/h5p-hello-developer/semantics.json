@@ -1,0 +1,33 @@
+[
+  {
+    "name": "pages",
+    "type": "list",
+    "widgets": [
+      {
+        "name": "VerticalTabs",
+        "label": "Default"
+      }
+    ],
+    "label": "Pages",
+    "entity": "page",
+    "min": 1,
+    "defaultNum": 1,
+    "field": {
+      "name": "page",
+      "type": "group",
+      "label": "Page",
+      "fields": [
+        {
+          "name": "title",
+          "type": "text",
+          "label": "Title"
+        },
+        {
+          "name": "content",
+          "type": "text",
+          "label": "Content"
+        }
+      ]
+    }
+  }
+]

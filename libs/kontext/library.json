@@ -1,0 +1,29 @@
+{
+  "machineName": "Kontext",
+  "title": "Kontext",
+  "description": "TODO",
+  "license": "MIT",
+  "author": "Joubel AS (fnoks)",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 0,
+  "runnable": 0,
+  "fullscreen": 0,
+  "embedTypes": [
+    "div"
+  ],
+  "coreApi": {
+    "majorVersion": 1,
+    "minorVersion": 6
+  },
+  "preloadedCss": [
+    {
+      "path": "styles/kontext2.css"
+    }
+  ],
+  "preloadedJs": [
+    {
+      "path": "scripts/kontext.js"
+    }
+  ]
+}
